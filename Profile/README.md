@@ -14,7 +14,7 @@ This project is the development of a mobile application aimed at providing compr
 - **Design:**
   - Figma
 
-- **Bac End:**
+- **Back End:**
   - Java Script
 
 - **Mobile Development:**
