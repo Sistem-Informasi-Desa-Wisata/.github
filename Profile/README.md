@@ -8,8 +8,7 @@ This project is the development of a mobile application aimed at providing compr
 ## 🧙 Manajer Project :
 |  Name                     | Job                                                   | 
 | :----------------------:  | :---------------------------------------------------: |
-Ir. Gde Brahupadhya
-Subiksa, S.Kom., M.T., IPM. |  Dosen S-1 Terapan Teknologi Rekayasa Perangkat Lunak |
+Ir. Gde Brahupadhya Subiksa, S.Kom., M.T., IPM. |  Dosen S-1 Terapan Teknologi Rekayasa Perangkat Lunak |
 
 ## 🙋‍ Members:
 | Student ID | Member                            | Class                | GitHub
