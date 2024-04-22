@@ -13,6 +13,9 @@ Ir. Gde Brahupadhya Subiksa, S.Kom., M.T., IPM. |  Dosen S-1 Terapan Teknologi R
 ## 🙋‍ Members:
 | Student ID | Member                            | Class                | GitHub
 | :---------: | :-------------------------------------: |:-----------------:  | :-----------------------------------------------------: |
+| 2115354055 | I  Kadek Santika Jaya Rata         | TRPL C               | [@kadeksantika](https://github.com/kadeksantika)
+| 2115354031 | Alief Muhammad Kahfi               | TRPL C               | [@AceVonLaura](https://github.com/AceVonLaura)
+| 2115354010 | Pandu Anggi Purwanto               | TRPL B               | [@MaoShenmi](https://github.com/MaoShenmi)
 | 2115354048 | Ni Kadek Viscayanti                | TRPL B               | [@Viscaaaa](https://github.com/Viscaaaa)
 
 ## 🛠 Built with:
@@ -22,10 +25,13 @@ Ir. Gde Brahupadhya Subiksa, S.Kom., M.T., IPM. |  Dosen S-1 Terapan Teknologi R
 
 - **Back End:**
   - Java Script
+  - Node js
+  - Express js
 
 - **Mobile Development:**
-  - Android Studio
+  - Android Studio SDK
   - Flutter
+  - Dart
   
 ## 📱 Features of Sistem Informasi Pariwisata MobileApp
   -
@@ -36,6 +42,7 @@ Ir. Gde Brahupadhya Subiksa, S.Kom., M.T., IPM. |  Dosen S-1 Terapan Teknologi R
   -
 
 ## 🎨 Figma UI/UX Link:
+  ||
 ## 📞 Contact
 | Nama  | LinkedIn |
 |-------|----------|
