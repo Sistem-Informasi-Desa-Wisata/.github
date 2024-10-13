@@ -1,5 +1,7 @@
 # Campus Project Base Learning "Sistem Informasi Desa Wisata" - Mobile App - application designed to be a platform for Information about tourism village👋
 ## Team : 6B TRPL - 6C TRPL
+## Team : 5C TRPL
+## Team : 5B TRPL
 
 ## 📖 Description :
 
